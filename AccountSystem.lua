@@ -3,142 +3,102 @@ return {
         {
             Username = "aero",
             Password = "aero123",
-            IsActive = true,
-            HWID = "204d0b5ae4fb36b5b6992b27b12d66f1ff70cfb65f4d53", 
-            AllowedHWIDs = {}
+            IsActive = true
         },
         {
             Username = "min",
             Password = "min123",
-            IsActive = true,
-            HWID = "",
-            AllowedHWIDs = {}
+            IsActive = true
         },
         {
             Username = "xiaohei",
             Password = "xiaohei123",
-            IsActive = true,
-            HWID = "",
-            AllowedHWIDs = {}
+            IsActive = true
         },
         {
             Username = "theyfearsavy",
             Password = "theyfearsavy123",
-            IsActive = true,
-            HWID = "",
-            AllowedHWIDs = {}
+            IsActive = true
         },
         {
             Username = "mosa",
             Password = "mosa1234",
-            IsActive = true,
-            HWID = "",
-            AllowedHWIDs = {}
+            IsActive = true
         },
         {
             Username = "ronjamaican",
             Password = "ronjamaican123",
-            IsActive = true,
-            HWID = "",
-            AllowedHWIDs = {}
+            IsActive = true
         },
         {
             Username = "sho",
             Password = "sho123",
-            IsActive = true,
-            HWID = "",
-            AllowedHWIDs = {}
+            IsActive = true
         },
         {
             Username = "synv4",
             Password = "synv4123",
-            IsActive = true,
-            HWID = "",
-            AllowedHWIDs = {}
+            IsActive = true
         },
         {
             Username = "dexter",
             Password = "dexter123",
-            IsActive = true,
-            HWID = "",
-            AllowedHWIDs = {}
+            IsActive = true
         },
         {
             Username = "pvpmentality",
             Password = "pvpmentality123",
-            IsActive = true,
-            HWID = "",
-            AllowedHWIDs = {}
+            IsActive = true
         },
         {
             Username = "generalcyan",
             Password = "generalcyan123",
-            IsActive = true,
-            HWID = "",
-            AllowedHWIDs = {}
+            IsActive = true
         },
         {
             Username = "wayys",
             Password = "wayys123",
-            IsActive = true,
-            HWID = "",
-            AllowedHWIDs = {}
+            IsActive = true
         },
         {
             Username = "shame",
             Password = "shame123",
-            IsActive = true,
-            HWID = "",
-            AllowedHWIDs = {}
+            IsActive = true
         },
         {
             Username = "gwy",
             Password = "gwy123",
-            IsActive = true,
-            HWID = "",
-            AllowedHWIDs = {}
+            IsActive = true
         },
         {
             Username = "abstract",
             Password = "abstract123",
-            IsActive = true,
-            HWID = "",
-            AllowedHWIDs = {}
+            IsActive = true
         },
         {
             Username = "desire",
             Password = "desire123",
-            IsActive = true,
-            HWID = "",
-            AllowedHWIDs = {}
+            IsActive = true
         },
         {
             Username = "breezy",
             Password = "breezy123",
-            IsActive = true,
-            HWID = "",
-            AllowedHWIDs = {}
+            IsActive = true
         },
         {
             Username = "kiwi",
             Password = "kiwi123",
-            IsActive = true,
-            HWID = "",
-            AllowedHWIDs = {}
+            IsActive = true
         },
         {
             Username = "gav",
             Password = "gav123",
-            IsActive = true,
-            HWID = "",
-            AllowedHWIDs = {}
+            IsActive = true
         },
         {
             Username = "croc",
             Password = "croc123",
-            IsActive = true,
-            HWID = "",
-            AllowedHWIDs = {}
+            IsActive = true
         }
     }
 }
