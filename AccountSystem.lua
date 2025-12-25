@@ -15,6 +15,13 @@ return {
             AllowedHWIDs = {}
         },
         {
+            Username = "xiaohei",
+            Password = "xiaohei123",
+            IsActive = true,
+            HWID = "",
+            AllowedHWIDs = {}
+        },
+        {
             Username = "theyfearsavy",
             Password = "theyfearsavy123",
             IsActive = true,
