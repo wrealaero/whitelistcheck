@@ -104,6 +104,16 @@ return {
             Username = "croc",
             Password = "croc123",
             IsActive = true
+        },
+        {
+            Username = "kolifyz",
+            Password = "kolifyz123",
+            IsActive = true
+        },
+        {
+            Username = "mightymafia",
+            Password = "mafiaclantop1",
+            IsActive = true
         }
     }
 }
